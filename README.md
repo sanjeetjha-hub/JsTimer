@@ -17,3 +17,9 @@ What is does is : We can add Seconds and it will CountDown And also we will Fill
 
 ![image](https://user-images.githubusercontent.com/64941695/228152418-b6da4e40-07b6-427f-937e-e1a920a9bace.png)
 
+
+
+<b>After Implementation</b>
+ 
+ ![image](https://user-images.githubusercontent.com/64941695/229038520-c869fb4b-0e50-4c63-b27b-98c999894448.png)
+
